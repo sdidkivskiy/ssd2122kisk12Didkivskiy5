@@ -1,0 +1,6 @@
+FROM mysql:latest
+
+ENV MYSQL_ROOT_PASSWORD hardpass!
+ENV MYSQL_USER user
+ENV MYSQL_PASSWORD hardpass!
+ENV MYSQL_DATABASE atm
