@@ -1,5 +1,4 @@
-For running the full project you need to run the commands from the root of the project:
-    
+For running the full project you need to run the commands from the root of the project:    
 	- mvn clean install
     	- docker-compose up -d
 
